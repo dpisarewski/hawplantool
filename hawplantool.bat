@@ -1,0 +1,1 @@
+start javaw -cp lib/hawplantool.jar;lib/forms-1.0.5.jar;lib/looks-2.1.3.jar de.dueddel.hawplantool.HAWPlanToolStarter
